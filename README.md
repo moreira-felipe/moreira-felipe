@@ -18,6 +18,6 @@ Sou formado em Ciência da Computação e atuo como Desenvolvedor de FullStack. 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/felipemoreira-96a31b131/)
 
 ## Repositórios importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mellofe&repo=Ubistart-FullStack-Challenge)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mellofe&repo=Ubistart-FullStack-Challenge)](https://github.com/mellofe/Ubistart-FullStack-Challenge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mellofe&repo=PokemonGoCloneOffline)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mellofe&repo=PokemonGoCloneOffline)](https://github.com/mellofe/PokemonGoCloneOffline)
