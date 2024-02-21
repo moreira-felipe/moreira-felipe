@@ -10,9 +10,10 @@ Sou formado em Ciência da Computação e atuo como Desenvolvedor de FullStack. 
 ![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellofe&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellofe&layout=compact)
+<div>
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=mellofe&show_icons=true&theme=radical&line_height=33">
+  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellofe&theme=radical&line_height=33">
+</div>
 
 ## Redes sociais
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/felipemoreira-96a31b131/)
