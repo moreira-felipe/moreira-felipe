@@ -16,7 +16,7 @@ Sou formado em Ciência da Computação e atuo como Desenvolvedor de FullStack. 
 </div>
 
 ## Redes sociais
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/felipemoreira-96a31b131/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/moreirafelipe1/)
 
 ## Repositórios importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mellofe&repo=Ubistart-FullStack-Challenge)](https://github.com/mellofe/Ubistart-FullStack-Challenge)
