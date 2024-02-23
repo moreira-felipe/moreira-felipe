@@ -11,14 +11,14 @@ Sou formado em Ciência da Computação e atuo como Desenvolvedor de FullStack. 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=moreirafelipe1&show_icons=true&theme=radical&line_height=33">
-  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirafelipe1&theme=radical&line_height=33">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=moreira-felipe&show_icons=true&theme=radical&line_height=33">
+  <img height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-felipe&theme=radical&line_height=33">
 </div>
 
 ## Redes sociais
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/moreirafelipe1/)
 
 ## Repositórios importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreirafelipe1&repo=Ubistart-FullStack-Challenge)](https://github.com/moreirafelipe1/Ubistart-FullStack-Challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreira-felipe&repo=Ubistart-FullStack-Challenge)](https://github.com/moreira-felipe/Ubistart-FullStack-Challenge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreirafelipe1&repo=PokemonGoCloneOffline)](https://github.com/moreirafelipe1/PokemonGoCloneOffline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreira-felipe&repo=PokemonGoCloneOffline)](https://github.com/moreira-felipe/PokemonGoCloneOffline)
