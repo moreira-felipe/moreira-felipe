@@ -1,5 +1,5 @@
 ## Olá, meu nome é Felipe
-Sou formado em Ciência da Computação e atuo como Desenvolvedor de FullStack. Há 2 anos atuo com as tecnologias .Net e Angular.
+Sou formado em Ciência da Computação e atuo como Desenvolvedor de Software. Há 2 anos trabalho com as tecnologias .Net e Angular e busco me aprimorar na área de arquitetura de software.
 
 ## Skills
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
