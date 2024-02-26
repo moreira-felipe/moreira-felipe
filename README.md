@@ -21,4 +21,6 @@ Sou formado em Ciência da Computação e atuo como Desenvolvedor de Software. H
 ## Repositórios importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreira-felipe&repo=Ubistart-FullStack-Challenge)](https://github.com/moreira-felipe/Ubistart-FullStack-Challenge)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreira-felipe&repo=Buscador)](https://github.com/moreira-felipe/Buscador)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moreira-felipe&repo=PokemonGoCloneOffline)](https://github.com/moreira-felipe/PokemonGoCloneOffline)
